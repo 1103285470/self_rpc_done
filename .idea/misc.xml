@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="Kotlin2JsCompilerArguments">
+    <option name="sourceMapEmbedSources" />
+    <option name="sourceMapPrefix" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8 (1)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="libraryTable">
+    <library name="netty-all-4.1.20.Final">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/../../idea_wksp/netty/lib/netty-all-4.1.20.Final.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$PROJECT_DIR$/../../idea_wksp/netty/lib/netty-all-4.1.20.Final-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$PROJECT_DIR$/../../idea_wksp/netty/lib/netty-all-4.1.20.Final-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="netty-all-4.1.20.Final-sources">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$PROJECT_DIR$/../../idea_wksp/netty/lib/netty-all-4.1.20.Final-sources.jar!/" />
+      </SOURCES>
+    </library>
+  </component>
+</project>

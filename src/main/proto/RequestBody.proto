@@ -1,0 +1,1 @@
+syntax = "proto3";option java_package = "com.sdp.protoEntity";option java_outer_classname = "request";message RequestBody{    string requestId = 1;    string type = 2;    SelfReq req = 3;}message SelfReq{    int32 base = 1;    int32 exp = 2;}

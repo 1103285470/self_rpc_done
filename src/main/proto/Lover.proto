@@ -1,0 +1,1 @@
+syntax = "proto3";option java_package = "com.sdp.protoEntity";option java_outer_classname = "loverProto";message Lover{    int32 id = 1;    string name = 2;    string email = 3;}
